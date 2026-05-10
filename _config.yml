@@ -1,5 +1,5 @@
-title: タイトル
-description: 説明
+title: Archiscatus
+description: 格を名づけ、成長を刻み、世界を織る
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
